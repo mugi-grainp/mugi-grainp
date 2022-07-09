@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 🌾
+
+I'm a programmer of text processing. / 私はテキストデータ処理が得意なプログラマです。
+
+### 🌱 I’m currently learning ... / 今学んでいること
+
+- Programming
+    - Ruby
+    - Rust
+    - Shell Script (Bash)
+- Simple Web UI Design
+- Color Design
+- Machine Learning
+
+### My website / 自分のウェブサイト
+
+[青竹荘](https://aotake91.net)
 
 <!--
 **mugi-grainp/mugi-grainp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
