@@ -2,6 +2,13 @@
 
 I'm a programmer of text processing. / 私はテキストデータ処理が得意なプログラマです。
 
+### Works in the company / 会社での業務
+
+- Software Engineer
+    - Java (Spring Boot)
+    - PHP
+    - Perl
+
 ### 🌱 I’m currently learning ... / 今学んでいること
 
 - Programming
