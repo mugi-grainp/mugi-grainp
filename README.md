@@ -6,8 +6,6 @@ I'm a programmer of text processing. / 私はテキストデータ処理が得�
 
 - Software Engineer
     - Java (Spring Boot)
-    - PHP
-    - Perl
 
 ### 🌱 I’m currently learning ... / 今学んでいること
 
@@ -17,15 +15,11 @@ I'm a programmer of text processing. / 私はテキストデータ処理が得�
     - Shell Script (Bash)
 - Simple Web UI Design
 - Color Design
-- Machine Learning
 
-### Programming language and frameworks I can handle / 扱うことができるプログラミング関連技術
+### My favorite programming languages / すきな言語
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,crystal,js,html,css,aws,docker,ai,java,latex,linux,md,mongodb,mysql,perl,php,py,r,regex,ruby,rust,spring,sqlite,scala,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,ruby)](https://skillicons.dev)
 
-### My website / 自分のウェブサイト
-
-[青竹荘](https://aotake91.net)
 
 <!--
 **mugi-grainp/mugi-grainp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
