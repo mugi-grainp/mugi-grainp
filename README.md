@@ -16,10 +16,20 @@ I'm a programmer of text processing. / 私はテキストデータ処理が得�
 - Simple Web UI Design
 - Color Design
 
+### My skills / 扱える言語・技術
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,rust,kotlin,scala,java,spring,ruby,py,r,html,css,js,php,latex,regex,mysql,sqlite,vim,git,docker,aws,bitbucket)](https://skillicons.dev)
+
+and AWK.
+
 ### My favorite programming languages / すきな言語
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,ruby)](https://skillicons.dev)
 
+- Bash
+- C
+- Ruby
+- AWK
 
 <!--
 **mugi-grainp/mugi-grainp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
